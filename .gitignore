@@ -128,4 +128,7 @@ next-env.d.ts
 # Workbox build files
 
 /workbox-*.json
-config.bat
+
+# env files
+.env*
+!.env.example
